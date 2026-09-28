@@ -72,6 +72,6 @@
 Feito por **Matheus Machado**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-qgmtheus-181717?logo=github)](https://github.com/qgmtheus)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-borba-826a18432/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xmtheus/)
 
 <sub>© 2026 Matheus Machado. Todos os direitos reservados.</sub>
